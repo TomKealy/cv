@@ -58,18 +58,27 @@ experiences:
         time: January 2022 - Present
         company: HelloFresh, Berlin
         details: | 
-            Built a Bayesian Inference Engine which calculates effect sizes and associated test statistics for 1000s of simultaneous experiments. Reduced the compute time from 24 hours to 40 minutes when compared to the previous solution. The new engine supports 18+ decision metrics, compared to the previous 2. 
-            Led cultural change within the company. HF adopted a risk based approach to experimentation.
+            Built a Bayesian Inference Engine which calculates effect sizes and associated 
+            test statistics for 1000s of simultaneous experiments. Reduced the compute time 
+            from 24 hours to 40 minutes when compared to the previous solution. 
+            The new engine supports 18+ decision metrics, compared to the previous 2. 
+            Led cultural change within the company: HF adopted a risk based approach to experimentation.
 
       - role: Data Scientist	
         time: January 2022 - Present
         company: HelloFresh. Berlin
         details: |
-            Built a forecasting system for weekly meal boxes shipped by HelloFresh. Produces a 5% error in all HelloFresh markets. The simple linear model and Sarimax are still in production.
+            Built a forecasting system for weekly meal boxes shipped by HelloFresh. Produces a 5% 
+            error in all HelloFresh markets. The simple linear model and Sarimax are still in production.
             Developed time series bootstrap methods to produce empirical prediction intervals for all HelloFresh forecasts.
-            Re-wrote an internal operations tool to calculate recipe splits from headline box counts. The tool was originally written in excel and was then imported to Python, reducing the lead time from 1 hour to 30 seconds whilst making the recipe ordering process more robust
-            Developed and built a channel and discount targeting model to identify high value customers for HelloFresh reactivation campaigns. Identified the top 20% of the customer base which brought 80% of the conversions and revenue.
-            Worked with internal HelloFresh stakeholders to run A/B tests of marketing models against the business usual approach. In 1 test the DS model had an 8% uplift which resulted in €7k extra profit. The model replaced the business as usual 
+            Re-wrote an internal operations tool to calculate recipe splits from headline box counts. 
+            The tool was originally written in excel and was then imported to Python, reducing the lead time from 
+            1 hour to 30 seconds whilst making the recipe ordering process more robust
+            Developed and built a channel and discount targeting model to identify high value customers for 
+            HelloFresh reactivation campaigns. Identified the top 20% of the customer base which brought 80% of the conversions and revenue.
+            Worked with internal HelloFresh stakeholders to run A/B tests of marketing models against the 
+            business usual approach. In 1 test the DS model had an 8% uplift which resulted in €7k extra profit. 
+            The model replaced the business as usual approach and remains in production.
       
       - role: Research Associate
         time: October 2016 - October 2017
