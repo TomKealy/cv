@@ -40,7 +40,7 @@ career-profile:
 experiences:
   title: Experiences
   details:
-    - role: Senior Data Scientist
+      role: Senior Data Scientist
       time: January 2022 - Present
       company: HelloFresh, Berlin
       details: | 
@@ -50,7 +50,7 @@ experiences:
         supports 18+ decision metrics, compared to the previous 2. Led cultural change 
         within the company: HF adopted a risk-based approach to experimentation.
         
-    - role: Data Scientist
+      role: Data Scientist
       time: January 2022 - Present
       company: HelloFresh, Berlin
       details: |
@@ -65,7 +65,7 @@ experiences:
         to run A/B tests of marketing models against the business usual approach. 
         In one test, the DS model had an 8% uplift, resulting in €7k extra profit.
       
-    - role: Research Associate
+      role: Research Associate
       time: October 2016 - October 2017
       company: United Kingdom Hydrographic Office/University of Bristol
       details: |
@@ -90,7 +90,7 @@ education:
 publications:
   title: Publications
   papers:
-    - title: The capacity of non-identical adaptive group testing
+      title: The capacity of non-identical adaptive group testing
       link: https://ieeexplore.ieee.org/abstract/document/7028442/similar
       authors: Thomas Kealy; Oliver Johnson; Robert Piechocki
       conference: 2014 52nd Annual Allerton Conference on Communication, Control, and Computing (Allerton)
