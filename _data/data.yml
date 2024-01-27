@@ -52,43 +52,6 @@ education:
         university: Imperial College London
         time: 2006 - 2009
 
-experiences:
-    title: Experiences
-      - role: Senior Data Scientist	
-        time: January 2022 - Present
-        company: HelloFresh, Berlin
-        details: | 
-            Built a Bayesian Inference Engine which calculates effect sizes and associated 
-            test statistics for 1000s of simultaneous experiments. Reduced the compute time 
-            from 24 hours to 40 minutes when compared to the previous solution. 
-            The new engine supports 18+ decision metrics, compared to the previous 2. 
-            Led cultural change within the company: HF adopted a risk based approach to experimentation.
-
-      - role: Data Scientist	
-        time: January 2022 - Present
-        company: HelloFresh. Berlin
-        details: |
-            Built a forecasting system for weekly meal boxes shipped by HelloFresh. Produces a 5% 
-            error in all HelloFresh markets. The simple linear model and Sarimax are still in production.
-            Developed time series bootstrap methods to produce empirical prediction intervals for all HelloFresh forecasts.
-            Re-wrote an internal operations tool to calculate recipe splits from headline box counts. 
-            The tool was originally written in excel and was then imported to Python, reducing the lead time from 
-            1 hour to 30 seconds whilst making the recipe ordering process more robust
-            Developed and built a channel and discount targeting model to identify high value customers for 
-            HelloFresh reactivation campaigns. Identified the top 20% of the customer base which brought 80% of the conversions and revenue.
-            Worked with internal HelloFresh stakeholders to run A/B tests of marketing models against the 
-            business usual approach. In 1 test the DS model had an 8% uplift which resulted in €7k extra profit. 
-            The model replaced the business as usual approach and remains in production.
-      
-      - role: Research Associate
-        time: October 2016 - October 2017
-        company: United Kingdom Hydrographic Office/University of Bristol
-        details: |
-            Designed a text processing engine prototype which used Apache UIMA and used the extraction framework ‘Baleen’ to process 100s of PDF for a custom named entity recognition problem. automated and streamlined an upgrade of 100 NtMs per week and saved £1k when NtM was updated
-            Developed an automated text analysis system which extracted location data and related information from multiple sources
-            Built a web portal and used BottlePy and Heroku and ran an internal tagging competition which annotated a text corpus provided by UKHO to identify Notices to Mariners from unstructured text.
-            Summarised and investigated NLP methods from the uses of NLTK, Gensim, Keras, Tensorflow, and Transformers.
-
 publications:
     title: Publications
     papers:
