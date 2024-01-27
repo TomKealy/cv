@@ -39,11 +39,11 @@ career-profile:
 
 experiences:
   title: Experiences
-  details:
+  info:
     - role: Senior Data Scientist
       time: January 2022 - Present
       company: HelloFresh, Berlin
-      description: |
+      details: |
         Built a Bayesian Inference Engine which calculates effect sizes and associated 
         test statistics for 1000s of simultaneous experiments. Reduced the compute time 
         from 24 hours to 40 minutes compared to the previous solution. The new engine 
@@ -52,7 +52,7 @@ experiences:
     - role: Data Scientist
       time: January 2022 - Present
       company: HelloFresh, Berlin
-      description: |
+      details: |
         Built a forecasting system for weekly meal boxes shipped by HelloFresh. Produces 
         a 5% error in all HelloFresh markets. The simple linear model and Sarimax are 
         still in production. Developed time series bootstrap methods to produce empirical 
@@ -66,12 +66,13 @@ experiences:
     - role: Research Associate
       time: October 2016 - October 2017
       company: United Kingdom Hydrographic Office/University of Bristol
-      description: |
+      details: |
         Designed a text processing engine prototype using Apache UIMA and ‘Baleen’ for 
         custom named entity recognition. Automated text analysis system extracted location 
         data from multiple sources. Built a web portal using BottlePy and Heroku for an 
         internal tagging competition. Summarised and investigated NLP methods including 
         NLTK, Gensim, Keras, Tensorflow, and Transformers.
+
 
 education:
   title: Education
