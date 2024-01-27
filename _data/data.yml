@@ -37,6 +37,18 @@ career-profile:
     stakeholders. I provide mentorship and technical guidance to junior data scientists and analysts. 
     Now seeking a challenging Data Scientist role.
 
+education:
+  title: Education
+  info:
+    - degree: PhD, Electrical Engineering/Statistics
+      university: University of Bristol
+      time: 2012 - 2016
+      details: |
+        Thesis: Distributed Wideband Spectrum Sensing
+    - degree: BSc Physics with Theoretical Physics (1st Class)
+      university: Imperial College London
+      time: 2006 - 2009
+
 experiences:
   title: Experiences
   info:
@@ -72,19 +84,6 @@ experiences:
         data from multiple sources. Built a web portal using BottlePy and Heroku for an 
         internal tagging competition. Summarised and investigated NLP methods including 
         NLTK, Gensim, Keras, Tensorflow, and Transformers.
-
-
-education:
-  title: Education
-  info:
-    - degree: PhD, Electrical Engineering/Statistics
-      university: University of Bristol
-      time: 2012 - 2016
-      details: |
-        Thesis: Distributed Wideband Spectrum Sensing
-    - degree: BSc Physics with Theoretical Physics (1st Class)
-      university: Imperial College London
-      time: 2006 - 2009
 
 publications:
   title: Publications
