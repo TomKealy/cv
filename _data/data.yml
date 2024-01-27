@@ -88,7 +88,7 @@ education:
 publications:
   title: Publications
   papers:
-      title: The capacity of non-identical adaptive group testing
+    - title: The capacity of non-identical adaptive group testing
       link: https://ieeexplore.ieee.org/abstract/document/7028442/similar
       authors: Thomas Kealy; Oliver Johnson; Robert Piechocki
       conference: 2014 52nd Annual Allerton Conference on Communication, Control, and Computing (Allerton)
